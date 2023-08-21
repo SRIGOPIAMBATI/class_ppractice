@@ -20,8 +20,8 @@ class dog:
     def add_dog(self):
         print("inside class")
 
-s=dog(" it should drink"," it should sleep"," it should bark"," it should eat")
-s.add_dog()
+simla=dog(" it should drink"," it should sleep"," it should bark"," it should eat")
+simla.add_dog()
 
 #dog.display_dog_activity(self)
 
