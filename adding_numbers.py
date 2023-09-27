@@ -4,4 +4,4 @@ num2 = int(input(" enter the number2"))
 #adding
 a = num1 + num2
 #print
-print(f" {num1} {num2}the sum")
+print(f" {num1} and {num2}the sum")
